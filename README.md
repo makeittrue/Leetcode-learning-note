@@ -7,7 +7,7 @@
 
 <div>
 <table border="1">
-<tr align = "center" valign="center">
+<tr align = "center">
   <th>序号</th>
   <th>题目</th>
   <th>代码实现</th>
@@ -23,7 +23,7 @@
   </td>
   <td><a href = "https://www.cxyxiaowu.com/6840.html">五分钟学算法</a></td>
 </tr>
-<tr align = "center" valign="center">
+<tr align = "center">
   <td>2</td>
   <td><a href = "https://leetcode-cn.com/problems/two-sum/"></a></td>
   <td>
