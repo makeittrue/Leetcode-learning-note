@@ -6,6 +6,7 @@
 
 
 <div>
+<body leftmargin=0 topmargin=0 marginheight=0 weightmargin=0>
 <table border="1">
 <tr align = "center">
   <th>序号</th>
@@ -33,7 +34,8 @@
   </td>
   <td><a href = "">解题思路</a></td>
 </tr>
-</table>
+</table>    
+</body>
 </div>
 
 ---
