@@ -1,4 +1,4 @@
-﻿# Leecode-learning-note
+# Leecode-learning-note
 >leecode做题笔记
 
 ## 汇总
@@ -6,7 +6,7 @@
 
 序号 | 题目 | 代码实现 | 解题思路
 ---|---|---|---
-1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [python]()<br>[golang]() | [五分钟学算法](https://www.cxyxiaowu.com/6840.html)
+1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [python]()<br>[golang](https://github.com/makeittrue/Leecode-learning-note/blob/master/go-implementation/HOT_100/number1.go) | [五分钟学算法](https://www.cxyxiaowu.com/6840.html)
 2 |  | python<br>golang | 
 
 ---
