@@ -5,7 +5,6 @@ type TreeNode struct {
      Left *TreeNode
      Right *TreeNode
 }
-var max = 0
 
 func diameterOfBinaryTree(root *TreeNode) int {
 	if root == nil{
@@ -14,17 +13,18 @@ func diameterOfBinaryTree(root *TreeNode) int {
 	if (root.Left == nil) && (root.Right == nil){
 		return 0
 	}else{
-		setDepth(root)
+		max := 0
+		setDepth(root, &max)
 		return max
 	}
 }
 
-func setDepth(root *TreeNode) int{
+func setDepth(root *TreeNode, max *int) int{
 	if root != nil{
-		right := setDepth(root.Right)
-		left := setDepth(root.Left)
-		if right + left > max {
-			max = right + left
+		right := setDepth(root.Right, max)
+		left := setDepth(root.Left, max)
+		if right + left > *max {
+			*max = right + left
 		}
 		if left > right {
 			return left +1
