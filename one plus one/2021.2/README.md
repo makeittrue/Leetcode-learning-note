@@ -11,11 +11,11 @@
 | 2.7  | [665. 非递减数列](2021-2-7_665-非递减数列.md)                |            | 简单 |
 | 2.8  | [978. 最长湍流子数组](2021-2-8_978-最长湍流子数组.md)        |            | 中等 |
 | 2.9  | [992. K 个不同整数的子数组](2021-2-9_992-K个不同整数的子数组.md) |            | 困难 |
-| 2.10 |                                                              |            |      |
-| 2.11 |                                                              |            |      |
-| 2.12 |                                                              |            |      |
-| 2.13 |                                                              |            |      |
-| 2.14 |                                                              |            |      |
+| 2.10 | [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) |            | 中等 |
+| 2.11 | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |            | 简单 |
+| 2.12 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) |            | 简单 |
+| 2.13 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) |            | 简单 |
+| 2.14 | [765. 情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) |            | 困难 |
 | 2.15 |                                                              |            |      |
 | 2.16 |                                                              |            |      |
 | 2.17 |                                                              |            |      |
