@@ -16,8 +16,8 @@
 | 2.12 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) |            | 简单 |
 | 2.13 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) |            | 简单 |
 | 2.14 | [765. 情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) |            | 困难 |
-| 2.15 |                                                              |            |      |
-| 2.16 |                                                              |            |      |
+| 2.15 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) |            | 简单 |
+| 2.16 | [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) |            | 简单 |
 | 2.17 |                                                              |            |      |
 | 2.18 |                                                              |            |      |
 | 2.19 |                                                              |            |      |
