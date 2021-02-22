@@ -19,11 +19,11 @@
 | 2.15 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) |            | 简单 |
 | 2.16 | [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) |            | 简单 |
 | 2.17 | [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) |            | 简单 |
-| 2.18 |                                                              |            |      |
-| 2.19 |                                                              |            |      |
-| 2.20 |                                                              |            |      |
-| 2.21 |                                                              |            |      |
-| 2.22 |                                                              |            |      |
+| 2.18 | [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) |            | 困难 |
+| 2.19 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) |            | 中等 |
+| 2.20 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) |            | 简单 |
+| 2.21 | [1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) |            | 中等 |
+| 2.22 | [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) |            | 中等 |
 | 2.23 |                                                              |            |      |
 | 2.24 |                                                              |            |      |
 | 2.25 |                                                              |            |      |
