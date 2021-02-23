@@ -24,7 +24,7 @@
 | 2.20 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) |            | 简单 |
 | 2.21 | [1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) |            | 中等 |
 | 2.22 | [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) |            | 中等 |
-| 2.23 |                                                              |            |      |
+| 2.23 | [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) |            | 中等 |
 | 2.24 |                                                              |            |      |
 | 2.25 |                                                              |            |      |
 | 2.26 |                                                              |            |      |
