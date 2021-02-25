@@ -26,7 +26,7 @@
 | 2.22 | [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) |            | 中等 |
 | 2.23 | [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) |            | 中等 |
 | 2.24 | [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) |            | 简单 |
-| 2.25 |                                                              |            |      |
+| 2.25 | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) |            | 简单 |
 | 2.26 |                                                              |            |      |
 | 2.27 |                                                              |            |      |
 | 2.28 |                                                              |            |      |
