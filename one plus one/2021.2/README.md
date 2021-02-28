@@ -29,6 +29,6 @@
 | 2.25 | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) |            | 简单 |
 | 2.26 | [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) |            | 困难 |
 | 2.27 | [395. 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) |            | 中等 |
-| 2.28 |                                                              |            |      |
+| 2.28 | [896. 单调数列](https://leetcode-cn.com/problems/monotonic-array/) |            | 简单 |
 
  
