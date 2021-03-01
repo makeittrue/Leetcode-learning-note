@@ -1,0 +1,47 @@
+## 区域和检索 - 数组不可变(简单)
+
+问题描述：
+
+![image-20210301092304959](../img/image-20210301092304959.png)
+
+我的解：
+
+```javascript
+var NumArray = function(nums) {
+    this.nums = nums;
+};
+
+NumArray.prototype.sumRange = function(i, j) {
+    let result = 0;
+  for(let k = i; k <= j; k++){
+    result += this.nums[k];
+  }
+  return result
+};
+```
+
+![image-20210301101558833](../img/image-20210301101558833.png)
+
+![image-20210301104012101](../img/image-20210301104012101.png)
+
+官解：
+
+![image-20210301104127373](../img/image-20210301104127373.png)
+
+```javascript
+var NumArray = function(nums) {
+    const n = nums.length;
+    this.sums = new Array(n + 1).fill(0);
+    for (let i = 0; i < n; i++) {
+        this.sums[i + 1] = this.sums[i] + nums[i];
+    }
+};
+
+NumArray.prototype.sumRange = function(i, j) {
+    return this.sums[j + 1] - this.sums[i];
+};
+```
+
+![image-20210301104728661](../img/image-20210301104728661.png)
+
+![image-20210301104750959](../img/image-20210301104750959.png)
