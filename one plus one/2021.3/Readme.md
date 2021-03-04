@@ -3,8 +3,8 @@
 | 日期 | 题目                                                         | trick | 难度 |
 | ---- | ------------------------------------------------------------ | ----- | ---- |
 | 3.1  | [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) |       | 简单 |
-| 3.2  |                                                              |       |      |
-| 3.3  |                                                              |       |      |
+| 3.2  | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) |       | 中等 |
+| 3.3  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) |       | 中等 |
 | 3.4  |                                                              |       |      |
 | 3.5  |                                                              |       |      |
 | 3.6  |                                                              |       |      |
