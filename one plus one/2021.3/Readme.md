@@ -6,7 +6,7 @@
 | 3.2  | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) |       | 中等 |
 | 3.3  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) |       | 中等 |
 | 3.4  | [354. 俄罗斯套娃信封问题（需复习）](https://leetcode-cn.com/problems/russian-doll-envelopes/) |       | 困难 |
-| 3.5  |                                                              |       |      |
+| 3.5  | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |       | 简单 |
 | 3.6  |                                                              |       |      |
 | 3.7  |                                                              |       |      |
 | 3.8  |                                                              |       |      |
