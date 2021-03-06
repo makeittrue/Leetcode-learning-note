@@ -7,7 +7,7 @@
 | 3.3  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) |       | 中等 |
 | 3.4  | [354. 俄罗斯套娃信封问题（需复习）](https://leetcode-cn.com/problems/russian-doll-envelopes/) |       | 困难 |
 | 3.5  | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |       | 简单 |
-| 3.6  |                                                              |       |      |
+| 3.6  | [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) |       | 中等 |
 | 3.7  |                                                              |       |      |
 | 3.8  |                                                              |       |      |
 | 3.9  |                                                              |       |      |
