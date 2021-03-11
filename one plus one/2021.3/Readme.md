@@ -11,9 +11,9 @@
 | 3.5  | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |       | 简单 |
 | 3.6  | [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) |       | 中等 |
 | 3.7  | [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) |       | 中等 |
-| 3.8  |                                                              |       |      |
-| 3.9  |                                                              |       |      |
-| 3.10 |                                                              |       |      |
+| 3.8  | [132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) |       | 困难 |
+| 3.9  | [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) |       | 简单 |
+| 3.10 | [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/) |       | 困难 |
 | 3.11 |                                                              |       |      |
 | 3.12 |                                                              |       |      |
 | 3.13 |                                                              |       |      |
