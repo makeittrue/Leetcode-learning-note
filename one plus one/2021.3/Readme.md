@@ -15,7 +15,7 @@
 | 3.9  | [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) |       | 简单 |
 | 3.10 | [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/) |       | 困难 |
 | 3.11 | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) |       | 中等 |
-| 3.12 |                                                              |       |      |
+| 3.12 | [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) |       | 中等 |
 | 3.13 |                                                              |       |      |
 | 3.14 |                                                              |       |      |
 | 3.15 |                                                              |       |      |
