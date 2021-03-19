@@ -20,9 +20,9 @@
 | 3.14 | [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) |       | 简单 |
 | 3.15 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) |       | 中等 |
 | 3.16 | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) |       | 中等 |
-| 3.17 | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) |       | 中等 |
-| 3.18 |                                                              |       |      |
-| 3.19 |                                                              |       |      |
+| 3.17 | [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) |       | 中等 |
+| 3.18 | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) |       | 中等 |
+| 3.19 | [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) |       | 简单 |
 | 3.20 |                                                              |       |      |
 | 3.21 |                                                              |       |      |
 | 3.22 |                                                              |       |      |
