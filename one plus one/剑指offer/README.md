@@ -11,8 +11,8 @@
 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof) |       | 中等 |
 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) |       | 简单 |
 | [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) |       | 简单 |
-|                                                              |       |      |
-|                                                              |       |      |
+| [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) |       | 简单 |
+| [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) |       | 中等 |
 |                                                              |       |      |
 |                                                              |       |      |
 |                                                              |       |      |
