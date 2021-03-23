@@ -25,8 +25,8 @@
 | 3.19 | [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) |       | 简单 |
 | 3.20 | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) |       | 中等 |
 | 3.21 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) |       | 中等 |
-| 3.22 |                                                              |       |      |
-| 3.23 |                                                              |       |      |
+| 3.22 | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |       | 简单 |
+| 3.23 | [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) |       | 中等 |
 | 3.24 |                                                              |       |      |
 | 3.25 |                                                              |       |      |
 | 3.26 |                                                              |       |      |
