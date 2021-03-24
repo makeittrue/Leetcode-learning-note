@@ -27,7 +27,7 @@
 | 3.21 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) |       | 中等 |
 | 3.22 | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |       | 简单 |
 | 3.23 | [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) |       | 中等 |
-| 3.24 |                                                              |       |      |
+| 3.24 | [456. 132模式](https://leetcode-cn.com/problems/132-pattern/) |       | 中等 |
 | 3.25 |                                                              |       |      |
 | 3.26 |                                                              |       |      |
 | 3.27 |                                                              |       |      |
