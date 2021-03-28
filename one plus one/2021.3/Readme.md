@@ -31,7 +31,7 @@
 | 3.25 | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) |       | 中等 |
 | 3.26 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |       | 简单 |
 | 3.27 | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) |       | 中等 |
-| 3.28 |                                                              |       |      |
+| 3.28 | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) |       |      |
 | 3.29 |                                                              |       |      |
 | 3.30 |                                                              |       |      |
 | 3.31 |                                                              |       |      |
