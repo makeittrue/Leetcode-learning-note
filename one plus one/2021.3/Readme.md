@@ -32,7 +32,7 @@
 | 3.26 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |       | 简单 |
 | 3.27 | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) |       | 中等 |
 | 3.28 | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) |       |      |
-| 3.29 |                                                              |       |      |
-| 3.30 |                                                              |       |      |
+| 3.29 | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) |       |      |
+| 3.30 | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |       | 中等 |
 | 3.31 |                                                              |       |      |
 
