@@ -3,7 +3,7 @@
 | 日期 | 题名                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 4.1  | [1006. 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | 中等 |
-| 4.2  |                                                              |      |
+| 4.2  | [面试题 17.21. 直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 |
 | 4.3  |                                                              |      |
 | 4.4  |                                                              |      |
 | 4.5  |                                                              |      |
