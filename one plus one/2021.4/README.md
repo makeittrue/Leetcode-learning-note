@@ -4,7 +4,7 @@
 | ---- | ------------------------------------------------------------ | ---- |
 | 4.1  | [1006. 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | 中等 |
 | 4.2  | [面试题 17.21. 直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 |
-| 4.3  |                                                              |      |
+| 4.3  | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 |
 | 4.4  |                                                              |      |
 | 4.5  |                                                              |      |
 | 4.6  |                                                              |      |
