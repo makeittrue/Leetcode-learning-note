@@ -6,7 +6,7 @@
 | 4.2  | [面试题 17.21. 直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 |
 | 4.3  | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 |
 | 4.4  | [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 |
-| 4.5  |                                                              |      |
+| 4.5  | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 |
 | 4.6  |                                                              |      |
 | 4.7  |                                                              |      |
 | 4.8  |                                                              |      |
