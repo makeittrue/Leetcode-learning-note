@@ -10,7 +10,7 @@
 | 4.6  | [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 中等 |
 | 4.7  | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 |
 | 4.8  | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 |
-| 4.9  |                                                              |      |
+| 4.9  | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 |
 | 4.10 |                                                              |      |
 | 4.11 |                                                              |      |
 | 4.12 |                                                              |      |
