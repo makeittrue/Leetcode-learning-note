@@ -12,7 +12,7 @@
 | 4.8  | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 |
 | 4.9  | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 |
 | 4.10 | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)   |      |
-| 4.11 |                                                              |      |
+| 4.11 | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) |      |
 | 4.12 |                                                              |      |
 | 4.13 |                                                              |      |
 | 4.14 |                                                              |      |
