@@ -14,7 +14,7 @@
 | 4.10 | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)   |      |
 | 4.11 | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) |      |
 | 4.12 |                                                              |      |
-| 4.13 |                                                              |      |
+| 4.13 | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |      |
 | 4.14 |                                                              |      |
 | 4.15 |                                                              |      |
 | 4.16 |                                                              |      |
