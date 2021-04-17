@@ -11,13 +11,13 @@
 | 4.7  | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 |
 | 4.8  | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 |
 | 4.9  | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 |
-| 4.10 | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)   |      |
-| 4.11 | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) |      |
-| 4.12 |                                                              |      |
-| 4.13 | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |      |
-| 4.14 |                                                              |      |
-| 4.15 |                                                              |      |
-| 4.16 |                                                              |      |
+| 4.10 | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)   | 简单 |
+| 4.11 | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 |
+| 4.12 | [179. 最大数](https://leetcode-cn.com/problems/largest-number/) | 中等 |
+| 4.13 | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 |
+| 4.14 | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 中等 |
+| 4.15 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 |
+| 4.16 | [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 |
 | 4.17 |                                                              |      |
 | 4.18 |                                                              |      |
 | 4.19 |                                                              |      |
