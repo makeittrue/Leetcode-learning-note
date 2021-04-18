@@ -18,8 +18,8 @@
 | 4.14 | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 中等 |
 | 4.15 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 |
 | 4.16 | [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 |
-| 4.17 |                                                              |      |
-| 4.18 |                                                              |      |
+| 4.17 | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 |
+| 4.18 | [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 |
 | 4.19 |                                                              |      |
 | 4.20 |                                                              |      |
 | 4.21 |                                                              |      |
