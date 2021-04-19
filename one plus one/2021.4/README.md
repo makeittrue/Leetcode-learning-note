@@ -20,7 +20,7 @@
 | 4.16 | [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 |
 | 4.17 | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 |
 | 4.18 | [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 |
-| 4.19 |                                                              |      |
+| 4.19 | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 |
 | 4.20 |                                                              |      |
 | 4.21 |                                                              |      |
 | 4.22 |                                                              |      |
