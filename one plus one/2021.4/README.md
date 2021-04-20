@@ -21,7 +21,7 @@
 | 4.17 | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 |
 | 4.18 | [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 |
 | 4.19 | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 |
-| 4.20 |                                                              |      |
+| 4.20 | [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 |
 | 4.21 |                                                              |      |
 | 4.22 |                                                              |      |
 | 4.23 |                                                              |      |
