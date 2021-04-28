@@ -26,10 +26,10 @@
 | 4.22 | [363. 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 困难 |
 | 4.23 | [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 中等 |
 | 4.24 | [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | 中等 |
-| 4.25 |                                                              |      |
-| 4.26 |                                                              |      |
-| 4.27 |                                                              |      |
-| 4.28 |                                                              |      |
+| 4.25 | [897. 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 |
+| 4.26 | [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | 中等 |
+| 4.27 | [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | 简单 |
+| 4.28 | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 中等 |
 | 4.29 |                                                              |      |
 | 4.30 |                                                              |      |
 
