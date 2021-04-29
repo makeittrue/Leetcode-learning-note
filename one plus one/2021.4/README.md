@@ -30,6 +30,6 @@
 | 4.26 | [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | 中等 |
 | 4.27 | [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | 简单 |
 | 4.28 | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 中等 |
-| 4.29 |                                                              |      |
+| 4.29 | [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/) | 困难 |
 | 4.30 |                                                              |      |
 
