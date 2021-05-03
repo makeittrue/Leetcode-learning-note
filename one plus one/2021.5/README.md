@@ -4,7 +4,7 @@
 | ---- | ------------------------------------------------------------ | ---- |
 | 5.1  | [690. 员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | 简单 |
 | 5.2  | [554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)    | 中等 |
-|      |                                                              |      |
+| 5.3  | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 简单 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
