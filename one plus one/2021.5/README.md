@@ -8,7 +8,7 @@
 | 5.4  | [1473. 粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 |
 | 5.5  | [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 |
 | 5.6  | [1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 |
-|      |                                                              |      |
+| 5.7  | [1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
