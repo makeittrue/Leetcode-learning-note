@@ -11,8 +11,8 @@
 | 5.7  | [1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 |
 | 5.8  | [1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 |
 | 5.9  | [1482. 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 |
-|      |                                                              |      |
-|      |                                                              |      |
+| 5.10 | [872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 |
+| 5.11 |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
