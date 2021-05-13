@@ -14,7 +14,7 @@
 | 5.10 | [872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 |
 | 5.11 | [1734.解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 |
 | 5.12 | [1310. 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | 中等 |
-|      |                                                              |      |
+| 5.13 | [1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
