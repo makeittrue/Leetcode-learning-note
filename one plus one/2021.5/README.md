@@ -17,9 +17,9 @@
 | 5.13 | [1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 |
 | 5.14 | [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 中等 |
 | 5.15 | [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
+| 5.16 | [421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 |
+| 5.17 | [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | 简单 |
+| 5.18 | [1442. 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
