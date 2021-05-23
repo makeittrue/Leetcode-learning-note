@@ -24,7 +24,7 @@
 | 5.20 | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | 中等 |
 | 5.21 | [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | 中等 |
 | 5.22 | [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 |
-|      |                                                              |      |
+| 5.23 | [1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
