@@ -1,4 +1,4 @@
-# 四月刷题总结
+# 五月刷题总结
 
 | 日期 | 题名                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
@@ -25,11 +25,11 @@
 | 5.21 | [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | 中等 |
 | 5.22 | [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 |
 | 5.23 | [1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
+| 5.24 |                                                              |      |
+| 5.25 |                                                              |      |
+| 5.26 |                                                              |      |
+| 5.27 | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |      |
+| 5.28 | [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |      |
 |      |                                                              |      |
 |      |                                                              |      |
 
