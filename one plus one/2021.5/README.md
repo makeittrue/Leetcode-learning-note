@@ -25,11 +25,14 @@
 | 5.21 | [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | 中等 |
 | 5.22 | [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 |
 | 5.23 | [1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 |
-| 5.24 |                                                              |      |
-| 5.25 |                                                              |      |
-| 5.26 |                                                              |      |
-| 5.27 | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |      |
-| 5.28 | [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |      |
+| 5.24 | [664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | 困难 |
+| 5.25 | [1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 |
+| 5.26 | [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等 |
+| 5.27 | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 |
+| 5.28 | [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 |
+| 5.29 | [1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 |
 |      |                                                              |      |
 |      |                                                              |      |
+
+
 
