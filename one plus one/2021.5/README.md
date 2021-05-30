@@ -31,7 +31,7 @@
 | 5.27 | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 |
 | 5.28 | [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 |
 | 5.29 | [1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 |
-|      |                                                              |      |
+| 5.30 | [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/) | 简单 |
 |      |                                                              |      |
 
 
