@@ -9,9 +9,9 @@
 | 6.5  | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 |
 | 6.6  | [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | 中等 |
 | 6.7  | [494. 目标和](https://leetcode-cn.com/problems/target-sum/)  |      |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
+| 6.8  |                                                              |      |
+| 6.9  | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 |
+| 6.10 |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
