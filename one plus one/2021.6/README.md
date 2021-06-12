@@ -12,8 +12,8 @@
 | 6.8  |                                                              |      |
 | 6.9  | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 |
 | 6.10 |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
+| 6.11 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |      |
+| 6.12 | [1449. 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
