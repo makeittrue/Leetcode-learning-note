@@ -14,10 +14,10 @@
 | 6.10 |                                                              |      |
 | 6.11 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |      |
 | 6.12 | [1449. 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
-|      |                                                              |      |
+| 6.13 |                                                              |      |
+| 6.14 |                                                              |      |
+| 6.15 | [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |      |
+| 6.16 |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
 |      |                                                              |      |
